@@ -53,10 +53,6 @@ Choose the module based on your calculation needs:
 ### Step 2: Run the class definitions
 Locate the corresponding class definition, for example:
 
-
-class Lattice:
-    ...
-
 Run the class definition code and initialize the required lattice parameters if necessary.
 
 ### Step 3: Execute specific calculations
