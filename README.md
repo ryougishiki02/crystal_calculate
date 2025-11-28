@@ -51,7 +51,7 @@ Choose the module based on your calculation needs:
 - Hexagonal three-/four-index conversion → Module 3  
 
 ### Step 2: Run the class definitions
-Locate the corresponding class definition, for example:
+Locate the corresponding class definition, for example:  class Lattice:
 
 Run the class definition code and initialize the required lattice parameters if necessary.
 
